@@ -1,3 +1,6 @@
+
+//this is the way reducer.js would look if not using split reducers
+{/*
 import { CAMPSITES } from '../shared/campsites';
 import { COMMENTS } from '../shared/comments';
 import { PARTNERS } from '../shared/partners';
