@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### `json-server --watch db.json -p 3001 -d 2000` required to run json-server that hosts the database that the code now depends on
+as of week 5 with Fetch
+But the database is not stored with this repo...
